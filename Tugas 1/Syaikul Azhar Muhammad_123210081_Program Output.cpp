@@ -16,7 +16,6 @@ int main(){
 	
 	//tipe data
 	string Nama, NIM, Plug;
-	int totalchar;
 	
 	//value Nama
 	cout << "Masukkan :" << endl;
